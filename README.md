@@ -17,7 +17,7 @@ Trivia is a game application ran through the terminal that implements low and hi
 - **Multiplexed I/O:**  
   Uses `select()` on both sockets and STDIN in the client to interleave network reads and user input without blocking.
 
-- **Robust Server-Client Protocol:**  
+- **Server-Client Protocol:**  
   Cleanly handles new connections, unexpected disconnects, invalid input, and end-of-game teardown.
 
 - **Command-Line Configuration:**  
