@@ -1,9 +1,3 @@
-/*******************************************************************************
- * Name        : server.c
- * Author      : Jake Paccione
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
