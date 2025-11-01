@@ -34,7 +34,7 @@ Trivia is a game application ran through the terminal that implements low and hi
 
 ## Build & Run  
 
-```bash
+```bashth
 # Build both server and client
 make
 
@@ -45,5 +45,7 @@ make
 # Note: If running through a VM, ensure the host's network adapter is set to “Bridged”  
 ./client -i 10.0.2.15 -p 25555
 ```
+
+Parts of this code are credited to *Systems Programming, 3rd Edition* by Shudong Hao.
 
 
